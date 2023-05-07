@@ -1,0 +1,11 @@
+body {
+    background-image: url(/images/background.jpg);
+    background-size: 100vmax;    
+}
+
+h1 {
+    color: white;
+}
+a {
+    color: whitesmoke;
+}
